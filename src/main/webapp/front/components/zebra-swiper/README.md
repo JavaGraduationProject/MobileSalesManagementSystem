@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 <p align="center">
 	<img alt="logo" src="https://assets-1256020106.cos.ap-beijing.myqcloud.com/zebra-swiper/logo.png" width="220" style="margin-bottom: 10px;">
 </p>

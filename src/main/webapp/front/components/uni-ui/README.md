@@ -1,6 +1,6 @@
 # 全目录
 
-[更多系统、论文，供君选择 ~~>](https://www.bitwise.net.cn)
+[更多系统、论文，供君选择 ~~>](https://www.yuque.com/wisebit/blog)
 
 当前 `uni-ui` 版本可以在 `nvue` 页面中使用，因为 `nvue` 的特性，故 `uni-ui` 大部分组件样式有较大改动，您如果觉得最新的 `nvue` 版本有兼容问题，可以使用 [vue](https://github.com/dcloudio/uni-ui/tree/last-vue)  版本
 
